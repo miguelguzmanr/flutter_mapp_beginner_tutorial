@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+See: [Flutter Tutorial For Beginners In 1 Hour](https://www.youtube.com/watch?v=C-fKAzdTrLU) by [@FlutterMap](https://www.youtube.com/@FlutterMapp) on YouTube.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
